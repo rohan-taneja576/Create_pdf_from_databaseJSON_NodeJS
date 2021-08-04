@@ -1,0 +1,25 @@
+{
+  "id": {
+    "name": {
+      "first": "rohan",
+      "last": "taneja"
+    },
+    "animal": "Dog",
+    "color": "white",
+    "breed": "Pommerian"
+  },
+  "shots": [
+    {
+      "type": "HeartWorm",
+      "date": "2017-07-27"
+    },
+    {
+      "type": "Intestial parasite",
+      "date": "2017-07-01"
+    },
+    {
+      "type": "kennel",
+      "date": "2017-07-27"
+    }
+  ]
+}
